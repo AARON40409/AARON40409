@@ -1,5 +1,5 @@
 - 👋 Salut, je suis Aaron bassingue
-- 👀 Je suis intéressé par le code
+- 👀 Je suis intéressé par le code et le déploiement d'application
 - 🌱 je cherche à collaborer sur des projets innovants ...
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">    <img  alt="AARON40409's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AARON40409?cardType=level-alternate&theme=gruvbox&preferLogin=false" />  </a>
