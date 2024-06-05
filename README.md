@@ -3,10 +3,10 @@
 - 🌱 je cherche à collaborer sur des projets innovants ...
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=great-gatsby&preferLogin=false&Background=16DBDD&Border=A1D556&Text=0A0109">    <img  alt="AARON40409's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AARON40409?cardType=github&theme=great-gatsby&preferLogin=false&Background=16DBDD&Border=A1D556&Text=0A0109" />  </a>
-
+<!---- 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+</div>--->
 
 ###
 
