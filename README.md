@@ -8,24 +8,6 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>--->
 
-###
-
-<!---- <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>--->
-
-###
-
-<!---- <div align="center">
-  <img src="https://profile-counter.glitch.me/AARON40409/count.svg?"  />
-</div>--->
-<p align="left">Hello World!!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/AARON40409/AARON40409/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
