@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Backend+Developer;Automation+%26+Deployment+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F2BF05&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Backend+Developer;Automation+%26+Deployment+Enthusiast" alt="Typing SVG" />
 
 **🌍 Basé à Abidjan, Côte d'Ivoire | 🎯 DevOps Engineer focused on automation, CI/CD, and application deployment**
 
