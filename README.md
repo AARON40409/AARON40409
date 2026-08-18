@@ -1,16 +1,16 @@
 <h1 align="center">👋 Salut, je suis Aaron bassingue.</h1>
 
-<h3 align="center">🚀 Software Developer</h3>
+<h3 align="center">☁️ DevOps Engineer</h3>
 
 <p align="center">
-🌍 Based in Abidjan, Côte d'Ivoire | 🎯 Intéressé par le code et le déploiement d'applications
+🌍 Based in Abidjan, Côte d'Ivoire | 🎯 DevOps Engineer focused on automation, CI/CD, and application deployment
 </p>
 
 <p align="center">
   <a href="https://github.com/AARON40409">
     <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/jean-charles-aaron-bassingue-a16245261">
+  <a href="#">
     <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="#">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:ton.email@example.com">ton.email@example.com</a>
+  📧 <a href="mailto:ton.email@example.com">aaron.bassingue12@gmail.com</a>
 </p>
 
 ---
@@ -27,20 +27,20 @@
 ## 🚀 About Me
 
 ```yaml
-name: Aaron BASSINGUE
-role: Software Developer
-specialization: [JavaScript, TypeScript, NestJS, Docker]
-current_position: [Ton poste / statut actuel]
+name: Aaron Bassingue
+role: DevOps Engineer
+specialization: [DevOps, CI/CD, Docker, Automation, JavaScript, TypeScript, NestJS]
+current_position: DevOps Engineer @ [Everest Consulting]
 location: Abidjan, Côte d'Ivoire
 seeking: Collaboration on innovative projects
 ```
 
-**Développeur passionné par le code et le déploiement d'applications.** J'aime construire des projets de bout en bout — de l'écriture du code jusqu'à sa mise en production — et je suis toujours à la recherche de projets innovants sur lesquels collaborer.
+**DevOps Engineer passionné par le code et le déploiement d'applications.** J'aime construire des projets de bout en bout — de l'écriture du code jusqu'à sa mise en production — et je suis toujours à la recherche de projets innovants sur lesquels collaborer.
 
 🎯 **Ce que je fais :**
-- Développe des applications avec JavaScript, TypeScript et NestJS
-- Package et déploie des applications avec Docker
-- Explore les pratiques CI/CD et le déploiement cloud
+- Automatise les déploiements avec des pipelines CI/CD
+- Containerise et déploie des applications avec Docker
+- Développe des services avec JavaScript, TypeScript et NestJS
 - Contribue et collabore sur des projets open-source
 
 ---
@@ -48,7 +48,7 @@ seeking: Collaboration on innovative projects
 ## 💼 Expérience & Projets
 
 <details>
-<summary>📌 [Ton poste] @ [Ton entreprise / projet] (dates)</summary>
+<summary>📌 DevOps Engineer @ [Ton entreprise] (dates)</summary>
 <br/>
 
 - Décris ici une réalisation ou une responsabilité clé
