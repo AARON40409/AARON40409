@@ -1,99 +1,182 @@
-<h1 align="center">👋 Salut, je suis Aaron bassingue.</h1>
+# 👋 Salut, je suis Aaron bassingue
+.
 
-<h3 align="center">☁️ DevOps Engineer</h3>
+<div align="center">
 
-<p align="center">
-🌍 Based in Abidjan, Côte d'Ivoire | 🎯 DevOps Engineer focused on automation, CI/CD, and application deployment
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Backend+Developer;Automation+%26+Deployment+Enthusiast" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/AARON40409">
-    <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-PORTFOLIO-F14A16?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+**🌍 Basé à Abidjan, Côte d'Ivoire | 🎯 DevOps Engineer focused on automation, CI/CD, and application deployment**
 
-<p align="center">
-  📧 <a href="mailto:ton.email@example.com">aaron.bassingue12@gmail.com</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AARON40409)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+📧 **[aaron.bassingue12@gmail.com]**
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
 ```yaml
-name: Aaron Bassingue
+name: Aaron BASSINGUE
 role: DevOps Engineer
-specialization: [DevOps, CI/CD, Docker, Automation, JavaScript, TypeScript, NestJS]
-current_position: DevOps Engineer @ [Everest Consulting]
+specialization: [CI/CD, Docker, Automation, JavaScript, TypeScript, NestJS]
+current_position: DevOps Engineer @ [Ton entreprise]
 location: Abidjan, Côte d'Ivoire
 seeking: Collaboration on innovative projects
 ```
 
-**DevOps Engineer passionné par le code et le déploiement d'applications.** J'aime construire des projets de bout en bout — de l'écriture du code jusqu'à sa mise en production — et je suis toujours à la recherche de projets innovants sur lesquels collaborer.
+**DevOps Engineer** passionné par l'automatisation, le déploiement d'applications et l'écriture de code propre. J'aime accompagner des projets de bout en bout — de l'écriture du code jusqu'à sa mise en production — en simplifiant les workflows et en fiabilisant les déploiements.
 
-🎯 **Ce que je fais :**
+🎯 **What I do:**
 - Automatise les déploiements avec des pipelines CI/CD
 - Containerise et déploie des applications avec Docker
-- Développe des services avec JavaScript, TypeScript et NestJS
-- Contribue et collabore sur des projets open-source
+- Développe des services backend avec JavaScript, TypeScript et NestJS
+- Améliore la fiabilité et l'efficacité des environnements de déploiement
+- Collabore sur des projets open-source et des initiatives innovantes
 
 ---
 
-## 💼 Expérience & Projets
+## 💼 Professional Experience
 
 <details>
-<summary>📌 DevOps Engineer @ [Ton entreprise] (dates)</summary>
-<br/>
+<summary><strong>🏢 DevOps Engineer @ [Ton entreprise]</strong> <em>([date de début] - Present)</em></summary>
 
-- Décris ici une réalisation ou une responsabilité clé
-- Ajoute une deuxième ligne si besoin
+**Core Responsibilities:**
+- 🔄 [Ex : mise en place et maintenance de pipelines CI/CD]
+- 🐳 [Ex : déploiement et gestion d'applications conteneurisées avec Docker]
+- ⚙️ [Ex : automatisation de tâches d'infrastructure ou de déploiement]
+- 💡 [Ajoute ici tes missions et réalisations réelles]
+
+**Technologies:** Docker, JavaScript, TypeScript, NestJS, [ajoute les tiennes]
 
 </details>
 
 <details>
-<summary>📌 [Projet ou expérience précédente] (dates)</summary>
-<br/>
+<summary><strong>💻 [Poste ou projet précédent]</strong> <em>(dates)</em></summary>
 
-- Décris ici ce que tu as fait
-- Ajoute une deuxième ligne si besoin
+- [Décris ici une réalisation ou une responsabilité clé]
+- [Ajoute une deuxième ligne si besoin]
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Arsenal
 
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">
-    <img alt="AARON40409's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AARON40409?cardType=level-alternate&theme=gruvbox&preferLogin=false" />
-  </a>
-</p>
+<div align="center">
 
-## 🛠️ Tech Stack
+### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"/>
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"/>
+### 🐳 Containers & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+*(Ajoute ici Kubernetes, Terraform, AWS/Azure/GCP, GitHub Actions, etc. si tu les utilises — dis-le moi et je les ajoute avec les bons badges)*
+
 </div>
 
-## 🔗 Me contacter
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/le_bon4031/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="35" alt="instagram logo"/>
-  </a>
-  <a href="https://wa.me/225711356106" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="30" height="35" alt="whatsapp logo"/>
-  </a>
+### 🏆 Certifications *(optionnel)*
+
+<table>
+<tr>
+<td width="50%">
+
+**☁️ Cloud / DevOps**
+- [Nom de la certification] *(année)*
+- [Nom de la certification] *(année)*
+
+</td>
+<td width="50%">
+
+**🔧 Autres**
+- [Nom de la certification] *(année)*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| [Nom du projet] | [Description courte] | `JavaScript` `NestJS` `Docker` | [View →](https://github.com/AARON40409) |
+| [Nom du projet] | [Description courte] | `TypeScript` `Docker` | [View →](https://github.com/AARON40409) |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AARON40409&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AARON40409&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AARON40409&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AARON40409&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🌍 Languages & Interests
+
+<div align="center">
+
+**🗣️ Languages:**
+🇫🇷 **French** | 🇬🇧 **English**
+
+**🎯 Interests:**
+[Ajoute tes centres d'intérêt ici]
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AARON40409&theme=tokyo-night" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+Toujours ouvert aux collaborations et aux projets innovants autour du déploiement et de l'automatisation.
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/225711356106)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/le_bon4031/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=AARON40409&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+**✨ _"Automatiser aujourd'hui pour livrer plus vite demain."_ ✨**
+
 </div>
