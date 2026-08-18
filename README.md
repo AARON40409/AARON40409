@@ -23,7 +23,7 @@
 name: Aaron BASSINGUE
 role: DevOps Engineer
 specialization: [CI/CD, Docker, Automation, JavaScript, TypeScript, NestJS]
-current_position: DevOps Engineer @ [Ton entreprise]
+current_position: DevOps Engineer @ [Everest Consulting]
 location: Abidjan, Côte d'Ivoire
 seeking: Collaboration on innovative projects
 ```
@@ -42,7 +42,7 @@ seeking: Collaboration on innovative projects
 ## 💼 Professional Experience
 
 <details>
-<summary><strong>🏢 DevOps Engineer @ [Ton entreprise]</strong> <em>([date de début] - Present)</em></summary>
+<summary><strong>🏢 DevOps Engineer @ [Everest Consulting]</strong> <em>([2023] - Present)</em></summary>
 
 **Core Responsibilities:**
 - 🔄 [Ex : mise en place et maintenance de pipelines CI/CD]
@@ -50,7 +50,7 @@ seeking: Collaboration on innovative projects
 - ⚙️ [Ex : automatisation de tâches d'infrastructure ou de déploiement]
 - 💡 [Ajoute ici tes missions et réalisations réelles]
 
-**Technologies:** Docker, JavaScript, TypeScript, NestJS, [ajoute les tiennes]
+**Technologies:** Docker,Kubernetes, terraform, NodeJs
 
 </details>
 
