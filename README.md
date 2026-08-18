@@ -10,7 +10,7 @@
   <a href="https://github.com/AARON40409">
     <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="#">
+  <a href="www.linkedin.com/in/jean-charles-aaron-bassingue-a16245261">
     <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="#">
