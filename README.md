@@ -1,45 +1,99 @@
-- 👋 Salut, je suis Aaron bassingue
-- 👀 Je suis intéressé par le code et le déploiement d'application 
-- 🌱 je cherche à collaborer sur des projets innovants ...
+<h1 align="center">👋 Salut, je suis Aaron bassingue.</h1>
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">    <img  alt="AARON40409's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AARON40409?cardType=level-alternate&theme=gruvbox&preferLogin=false" />  </a>
-<!---- 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>--->
+<h3 align="center">🚀 Software Developer</h3>
 
+<p align="center">
+🌍 Based in Abidjan, Côte d'Ivoire | 🎯 Intéressé par le code et le déploiement d'applications
+</p>
+
+<p align="center">
+  <a href="https://github.com/AARON40409">
+    <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-PORTFOLIO-F14A16?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:ton.email@example.com">ton.email@example.com</a>
+</p>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Aaron BASSINGUE
+role: Software Developer
+specialization: [JavaScript, TypeScript, NestJS, Docker]
+current_position: [Ton poste / statut actuel]
+location: Abidjan, Côte d'Ivoire
+seeking: Collaboration on innovative projects
+```
+
+**Développeur passionné par le code et le déploiement d'applications.** J'aime construire des projets de bout en bout — de l'écriture du code jusqu'à sa mise en production — et je suis toujours à la recherche de projets innovants sur lesquels collaborer.
+
+🎯 **Ce que je fais :**
+- Développe des applications avec JavaScript, TypeScript et NestJS
+- Package et déploie des applications avec Docker
+- Explore les pratiques CI/CD et le déploiement cloud
+- Contribue et collabore sur des projets open-source
+
+---
+
+## 💼 Expérience & Projets
+
+<details>
+<summary>📌 [Ton poste] @ [Ton entreprise / projet] (dates)</summary>
+<br/>
+
+- Décris ici une réalisation ou une responsabilité clé
+- Ajoute une deuxième ligne si besoin
+
+</details>
+
+<details>
+<summary>📌 [Projet ou expérience précédente] (dates)</summary>
+<br/>
+
+- Décris ici ce que tu as fait
+- Ajoute une deuxième ligne si besoin
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">
+    <img alt="AARON40409's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AARON40409?cardType=level-alternate&theme=gruvbox&preferLogin=false" />
+  </a>
+</p>
+
+## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"/>
   <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"/>
 </div>
 
-###
+## 🔗 Me contacter
 
 <div align="left">
   <a href="https://www.instagram.com/le_bon4031/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="35" alt="instagram logo"/></a>
-  <a href="0711356106" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="30" height="35" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="35" alt="instagram logo"/>
+  </a>
+  <a href="https://wa.me/225711356106" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="30" height="35" alt="whatsapp logo"/>
   </a>
 </div>
-
-###
-
-  <!----  <img src='https://camo.githubusercontent.com/5694beadc5c8b9bfa2ef10a582a204e8e1b59c0de565565f85e89f4bfa281e91/68747470733a2f2f617765736f6d652d6769746875622d73746174732e617a75726577656273697465732e6e65742f757365722d73746174732f6272756e6f627269746f6465763f7468656d653d68696768636f6e7472617374'/>
-<!---- 💞️ I’m looking to collaborate on ... 
-
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<!---
-AARON40409/AARON40409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
