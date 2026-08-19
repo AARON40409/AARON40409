@@ -1,17 +1,18 @@
-# 👋 Salut, je suis Aaron bassingue
-.
+# 👋 Salut, je suis Aaron bassingue.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F2BF05&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Backend+Developer;Automation+%26+Deployment+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F2BF05&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Backend+Developer;System+Administrator" alt="Typing SVG" />
 
 **🌍 Basé à Abidjan, Côte d'Ivoire | 🎯 DevOps Engineer focused on automation, CI/CD, and application deployment**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AARON40409)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/github-010F46?style=for-the-badge&logo=logoColor=white)](https://github.com/AARON40409)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-📧 **[aaron.bassingue12@gmail.com]**
+🗣️ Languages: 🇫🇷 French | 🇬🇧 English
+
+**aaron.bassingue13@gmail.com**
 
 </div>
 
@@ -23,7 +24,7 @@
 name: Aaron BASSINGUE
 role: DevOps Engineer
 specialization: [CI/CD, Docker, Automation, JavaScript, TypeScript, NestJS]
-current_position: DevOps Engineer @ [Everest Consulting]
+current_position: DevOps Engineer @ Everest Consulting
 location: Abidjan, Côte d'Ivoire
 seeking: Collaboration on innovative projects
 ```
@@ -42,25 +43,21 @@ seeking: Collaboration on innovative projects
 ## 💼 Professional Experience
 
 <details>
-<summary><strong>🏢 DevOps Engineer @ [Everest Consulting]</strong> <em>([2023] - Present)</em></summary>
+<summary><strong>🏢 DevOps Engineer &  System Administrator @ Everest Consulting</strong> <em>(2023 - Present)</em></summary>
 
 **Core Responsibilities:**
-- 🔄 [Ex : mise en place et maintenance de pipelines CI/CD]
-- 🐳 [Ex : déploiement et gestion d'applications conteneurisées avec Docker]
-- ⚙️ [Ex : automatisation de tâches d'infrastructure ou de déploiement]
-- 💡 [Ajoute ici tes missions et réalisations réelles]
 
-**Technologies:** Docker,Kubernetes, terraform, NodeJs
+- 🔄 Concevoir, implémenter et maintenir des pipelines CI/CD pour accélérer la livraison de logiciels et réduire les risques de déploiement
+- ☸️ Déployer et gérer des applications conteneurisées dans des environnements Kubernetes et Docker
+- ⚙️ Automatiser le provisionnement, la configuration et la cohérence de l'infrastructure grâce à Terraform et aux bonnes pratiques IaC
+- 📊 Surveiller l'état des applications, les performances du système et les indicateurs d'infrastructure à l'aide d'outils d'observabilité
+- 🔐 Améliorer la sécurité en appliquant des politiques IAM, en renforçant le déploiement et en adoptant les bonnes pratiques d'infrastructure
+- 💡 Collaborer avec les équipes pour optimiser les flux de travail de mise en production, réduire les opérations manuelles et améliorer la fiabilité de la plateforme
+- 🚀 Assurer  la mise en place d'une architecture à haute disponibilité pour les services critiques
 
-</details>
-
-<details>
-<summary><strong>💻 [Poste ou projet précédent]</strong> <em>(dates)</em></summary>
-
-- [Décris ici une réalisation ou une responsabilité clé]
-- [Ajoute une deuxième ligne si besoin]
 
 </details>
+
 
 ---
 
@@ -68,50 +65,30 @@ seeking: Collaboration on innovative projects
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+### ☁️ Cloud & Infrastructure
 
-### 🐳 Containers & Automation
+![Docker](https://img.shields.io/badge/AWS-E36D05?style=for-the-badge&logo=aws&logoColor=white)
+![Docker](https://img.shields.io/badge/KUBERNETES-1B1E94?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-*(Ajoute ici Kubernetes, Terraform, AWS/Azure/GCP, GitHub Actions, etc. si tu les utilises — dis-le moi et je les ajoute avec les bons badges)*
 
-</div>
 
----
+### ⚙️ DevOps & Automation
 
-### 🏆 Certifications *(optionnel)*
+![JavaScript](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=black)
+![TypeScript](https://img.shields.io/badge/Flux_CD-green?style=for-the-badge&logo=FluxCD&logoColor=white)
+![NestJS](https://img.shields.io/badge/Argo_CD-E0234E?style=for-the-badge&logo=ArgoCD&logoColor=white)
+![Docker](https://img.shields.io/badge/GitHub_Actions-0969DA?style=for-the-badge&logo=GitHub_Actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Bash_Script-E36D05?style=for-the-badge&logo=Bash_Script&logoColor=white)
 
-<table>
-<tr>
-<td width="50%">
 
-**☁️ Cloud / DevOps**
-- [Nom de la certification] *(année)*
-- [Nom de la certification] *(année)*
+### 📊 Monitoring & Databases
 
-</td>
-<td width="50%">
+![Docker](https://img.shields.io/badge/Prometheus-271329?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Grafana-E36D05?style=for-the-badge&logo=Grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Postgres-1B1E94?style=for-the-badge&logo=Postgres&logoColor=white)
 
-**🔧 Autres**
-- [Nom de la certification] *(année)*
 
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [Nom du projet] | [Description courte] | `JavaScript` `NestJS` `Docker` | [View →](https://github.com/AARON40409) |
-| [Nom du projet] | [Description courte] | `TypeScript` `Docker` | [View →](https://github.com/AARON40409) |
 
 </div>
 
@@ -132,26 +109,6 @@ seeking: Collaboration on innovative projects
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AARON40409&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🌍 Languages & Interests
-
-<div align="center">
-
-**🗣️ Languages:**
-🇫🇷 **French** | 🇬🇧 **English**
-
-**🎯 Interests:**
-[Ajoute tes centres d'intérêt ici]
-
-</div>
 
 ---
 
@@ -168,15 +125,11 @@ seeking: Collaboration on innovative projects
 
 Toujours ouvert aux collaborations et aux projets innovants autour du déploiement et de l'automatisation.
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/225711356106)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/le_bon4031/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](#)
+**✨ _"Automatiser aujourd'hui pour livrer plus vite demain."_ ✨**
 
----
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaron.bassingue13@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/le_bon4031/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2250711356106)
 
 <img src="https://komarev.com/ghpvc/?username=AARON40409&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-**✨ _"Automatiser aujourd'hui pour livrer plus vite demain."_ ✨**
-
-</div>
