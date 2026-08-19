@@ -109,14 +109,6 @@ seeking: Collaboration on innovative projects
 
 </div>
 
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AARON40409&theme=tokyo-night" alt="Contribution Graph"/>
-</div>
-
 ---
 
 ## 🤝 Let's Connect!
