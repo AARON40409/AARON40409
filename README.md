@@ -1,18 +1,19 @@
-# 👋 Salut, je suis Aaron bassingue.
-
+<a href="https://github.com/AARON40409">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=true&text=Salut%2C+je+suis+Aaron+bassingue&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
+</a>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F2BF05&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Backend+Developer;System+Administrator" alt="Typing SVG" />
 
 **🌍 Basé à Abidjan, Côte d'Ivoire | 🎯 DevOps Engineer focused on automation, CI/CD, and application deployment**
 
+🗣️ Languages: 🇫🇷 French | 🇬🇧 English
+**aaron.bassingue13@gmail.com**
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-010F46?style=for-the-badge&logo=logoColor=white)](https://github.com/AARON40409)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-🗣️ Languages: 🇫🇷 French | 🇬🇧 English
-
-**aaron.bassingue13@gmail.com**
 
 </div>
 
@@ -67,26 +68,36 @@ seeking: Collaboration on innovative projects
 
 ### ☁️ Cloud & Infrastructure
 
-![Docker](https://img.shields.io/badge/AWS-E36D05?style=for-the-badge&logo=aws&logoColor=white)
-![Docker](https://img.shields.io/badge/KUBERNETES-1B1E94?style=for-the-badge&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,aws" />
+  </a>
+</p>
 
 
 ### ⚙️ DevOps & Automation
 
-![JavaScript](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/Flux_CD-green?style=for-the-badge&logo=FluxCD&logoColor=white)
 ![NestJS](https://img.shields.io/badge/Argo_CD-E0234E?style=for-the-badge&logo=ArgoCD&logoColor=white)
-![Docker](https://img.shields.io/badge/GitHub_Actions-0969DA?style=for-the-badge&logo=GitHub_Actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Bash_Script-E36D05?style=for-the-badge&logo=Bash_Script&logoColor=white)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,github,bash" />
+  </a>
+</p>
 
 
 ### 📊 Monitoring & Databases
 
-![Docker](https://img.shields.io/badge/Prometheus-271329?style=for-the-badge&logo=docker&logoColor=white)
+<!-- ![Docker](https://img.shields.io/badge/Prometheus-271329?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/Grafana-E36D05?style=for-the-badge&logo=Grafana&logoColor=white)
-![Docker](https://img.shields.io/badge/Postgres-1B1E94?style=for-the-badge&logo=Postgres&logoColor=white)
+![Docker](https://img.shields.io/badge/Postgres-1B1E94?style=for-the-badge&logo=Postgres&logoColor=white) -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,postgres,mongo" />
+  </a>
+</p>
 
 
 
