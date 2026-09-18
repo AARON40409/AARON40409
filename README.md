@@ -1,5 +1,5 @@
 <a href="https://github.com/AARON40409">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=true&text=Salut%2C+je+suis+Aaron+bassingue&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&section=header&reversal=true&text=Salut%2C+je+suis+Aaron+bassingue&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
 </a>
 <div align="center">
 
