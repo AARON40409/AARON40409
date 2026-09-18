@@ -70,21 +70,16 @@ seeking: Collaboration on innovative projects
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,aws" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,aws,nginx" />
   </a>
 </p>
 
 
 ### ⚙️ DevOps & Automation
 
-![TypeScript](https://img.shields.io/badge/Flux_CD-green?style=for-the-badge&logo=FluxCD&logoColor=white)
-![NestJS](https://img.shields.io/badge/Argo_CD-E0234E?style=for-the-badge&logo=ArgoCD&logoColor=white)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,github,bash" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=terraform,githubactions,bash&perline=3)](https://skillicons.dev)
+
 
 
 ### 📊 Monitoring & Databases
@@ -95,7 +90,7 @@ seeking: Collaboration on innovative projects
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana,firebase,postgres,mongo,mysql" />
   </a>
 </p>
 
