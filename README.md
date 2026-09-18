@@ -1,18 +1,17 @@
 <a href="https://github.com/AARON40409">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&section=header&reversal=true&text=Salut%2C+je+suis+Aaron+bassingue&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&section=header&reversal=true&text=Salut%2C+je+suis+Aaron+bassingue&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
 </a>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F2BF05&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Backend+Developer;System+Administrator" alt="Typing SVG" />
 
-**🌍 Basé à Abidjan, Côte d'Ivoire | 🎯 DevOps Engineer focused on automation, CI/CD, and application deployment**
+**🌍 Basé à Abidjan, Côte d'Ivoire | 🎯 DevOps Engineer ,**
 
 🗣️ Languages: 🇫🇷 French | 🇬🇧 English
 **aaron.bassingue13@gmail.com**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-010F46?style=for-the-badge&logo=logoColor=white)](https://github.com/AARON40409)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 
 </div>
